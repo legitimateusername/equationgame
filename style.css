@@ -1,0 +1,81 @@
+body{
+	background-color: #C0E0FF;
+	font-family: sans-serif;
+	font-size: 18px;
+	margin: 0;
+}
+td{
+	text-align: center;
+	font-size: 60px;
+	width: 173px;
+	height: 100px;
+}
+.button{
+	font-size: 16px;
+}
+.sidebarlink{
+	color: black;
+	text-decoration: none;
+	font-size: 18px;
+}
+.sidebarlink:hover{
+	text-decoration: underline;
+}
+div#main{
+	padding-left: 0px;
+	margin-left: 240px;
+}
+div#header{
+	text-align: center;
+	font-size: 24px;
+	font-family: "Trebuchet MS";
+	color: black;
+	text-decoration: none;
+	background: #D8ECFF;
+	border-top: 1px solid #C0E0FF;
+	border-bottom: 1px solid #D0E8FF;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+div#sidebar{
+	width: 160px;
+	height: 340px; /*39x+28*/
+	float: left;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-right: 20px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top: 10px;
+	background: #D8ECFF;
+}
+div#box{
+	padding-left: 60px;
+}
+table#numbers{
+	border: 1px solid black;
+}
+div#entry{
+	font-size: 18px;
+}
+input#textentry{
+	font-size: 18px;
+	width: 169px;
+}
+div#instructions{
+	max-width: 750px;
+}
+span#solution{
+	font-size: 72px;
+}
+td#toprow{
+	height: 10px;
+}
+td#submissionrow{
+	height: 100px;
+	vertical-align: center;
+}
+td#bottomrow{
+	height: 10px;
+}
