@@ -1,0 +1,1 @@
+This is a game that will generate a set of random numbers to be used to make an equation that will equal a random goal number. The puzzles are generated to always be solvable, with an option to display an answer if the player gives up on finding one themselves.
